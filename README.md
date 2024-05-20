@@ -1,2 +1,2 @@
-# Car-Dealership-Sales-Analysis-Power-BI
-The project is centred around the critical analysis of a car dealership. The report evaluates the development and implementation of a Power BI Car Sales Dashboard for the same. The dashboard aims to optimize sales performance tracking and enable data-driven decision-making.
+Car Dealership Sales Analysis
+This is aimed to design and develop a comprehensive and interactive Car Sales Dashboard using Power BI with the help of DAX functions and SQL. The dashboard visualizes critical KPIs related to car sales of the dealership.
